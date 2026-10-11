@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sliding Window
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
