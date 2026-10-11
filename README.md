@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0217-contains-duplicate](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
