@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
