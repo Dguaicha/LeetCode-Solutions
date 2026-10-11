@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [2235-add-two-integers](https://github.com/Dguaicha/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
